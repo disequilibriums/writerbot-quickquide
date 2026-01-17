@@ -22,7 +22,7 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 
 3. Your sprint will begin!
 
-![img](/img/1g_sprint_start.png)  
+![img](/img/1e_sprint_start.png)  
 
 3. If you want to get notified when new sprints are starting, use the `/sprint notify` command and set it to 'Yes':  
 
