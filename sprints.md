@@ -6,7 +6,7 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 * [Starting a new sprint](#sprint-start)
 * [Joining a sprint](#sprint-join)
 * [Finishing a sprint](#sprint-end)
-* [Other sprint settings](#sprint-settings)  
+* [Sprint settings](#sprint-settings)  
 
 ---
 <span id="sprint-basics"></span>
@@ -36,11 +36,20 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 2. To join a sprint that someone else has started, use `/sprint join`. There are a few options here:  
 
 * `/sprint join normal` lets you choose an **initial** wordcount (ie. the wordcount of your document before the sprint), and a **project** to add your sprint wordcount to.
+  * The default settings, unless you change them using the `sprint join set_default` command, are initial = 0, project = none.
 * `/sprint join no-wordcount` lets you sprint without needing to add a wordcount (ie. for editing/art/other creative purposes). You can still select a **project**.
 * `/sprint join same` lets you join with the same wordcount you had at the end of your last sprint.
 * `/sprint join set default_join` lets you set your default join condition. 
 
 ![img](/img/1j_sprint_start.png)   
+
+3. If you want your wordcount to increase for a specific project, you can also use `/sprint project ` to tell the bot to add your words from the current sprint to that project:  
+
+![img](/img/1f_sprint_settings.png)  
+
+![img](/img/1h_sprint_settings.png)  
+
+4. If you join with the wrong wordcount, I haven't found an easy way to correct it... I would suggest leaving the sprint using `/sprint leave` and rejoining with the correct wordcount!  
 
 
 <span id="sprint-end"></span>
@@ -65,4 +74,12 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 
 
 
-<span id="sprint-settings"></span>
+<span id="sprint-settings"></span>  
+
+## Sprint settings:<br><br>
+
+1. If you want your wordcount to increase for a specific project, you can use `/sprint project ` to tell the bot to add your words from the current sprint to that project:  
+
+![img](/img/1f_sprint_settings.png)  
+
+![img](/img/1h_sprint_settings.png)  
