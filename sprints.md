@@ -15,7 +15,12 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 
 ![img](/img/1_sprint_start.png)  
 
-2. If you click ***+4 more***, you can add additional settings:
+2. If you click ***+4 more***, you can add additional settings:  
+
+* **in**: the # of minutes until the sprint begins
+* **at**: set a specific time the sprint will begin at
+* **initial**: set your initial wordcount for the sprint (this will be subtracted from your final wordcount)
+* **project**: set a project to sprint in (this will add the words from the sprint to your project total)  
 
 ![img](/img/1b_sprint_start.png)  
 
