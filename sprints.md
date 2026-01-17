@@ -10,11 +10,11 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 <span id="sprint-basics"></span>
 ## Starting a sprint:<br><br>
 
-1. To start a sprint, use the `sprint for` command:
+1. To start a sprint, use the `sprint for` command and enter a value for the sprint length:
 
 ![img](/img/1_sprint_start.png)  
 
-2. You can select the length the sprint will run in minutes. If you click ***+4 more***, you can add additional settings:
+2. If you click ***+4 more***, you can add additional settings:
 
 ![img](/img/1b_sprint_start.png)  
 
