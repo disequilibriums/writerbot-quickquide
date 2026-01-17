@@ -43,9 +43,9 @@ Now, when you use /profile commands, only you will be able to see the bot output
 
 4. You can view your project by using `/project view ` and selecting your desired project:
 
-![img](/img/2n_project_settings.png)  
-
 ![img](/img/2o_project_settings.png)  
+
+![img](/img/2n_project_settings.png)  
 
 <br>
 ## There are various settings you can add using the /project command:  
@@ -78,8 +78,8 @@ Now, when you use /profile commands, only you will be able to see the bot output
 
 6. You can view your project using `/project view `:
 
-![img](/img/2n_project_settings.png)  
-
 ![img](/img/2o_project_settings.png)  
+
+![img](/img/2n_project_settings.png)  
 
 ![img](/img/1_project_final_card.png)
