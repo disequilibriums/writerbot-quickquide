@@ -4,9 +4,15 @@ If you would like to keep track of your wordcount for a specific project, you ca
 
 ![img](/img/1_project_final_card.png)<br><br>
 
----
+## Quick Links:
+[Hide project commands from others](#toggle-visibility)
+[Create a new project](#create-project)
+[Update project settings (eg. description, goal wordcount)](#project-settings)
 
+---
+<span id="toggle-visibility"></span>
 ## If you want to hide messages related to project setup so that only you can see them, you can toggle off project command visibility using `/preferences toggle`:<br><br>
+This is useful if, like me, you get worried about everyone watching you struggle to use bots...  
 
 1. type `/preferences toggle` and select the bot command that comes up:
 
@@ -29,7 +35,7 @@ Now, when you use /profile commands, only you will be able to see the bot output
 ![img](/img/6_preftoggle.png)  
 
 ---
-
+<span id="create-project"></span>
 ## To create a project, use the `/project create` command:  
 
 1. Type `/project create` and select the bot command that comes up:  
@@ -51,7 +57,7 @@ Now, when you use /profile commands, only you will be able to see the bot output
 ![img](/img/2n_project_settings.png)  
 
 ---
-
+<span id="project-settings"></span>
 ## There are various settings you can add using the `/project` command:  
 
 1. Add a word count goal by using `/project edit goal` and entering your desired wordcount:
