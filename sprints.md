@@ -20,9 +20,21 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 
 ![img](/img/1c_sprint_start.png)  
 
+3. Your sprint will begin!
+
+![img](/img/1f_sprint_start.png)  
+
 3. If you want to get notified when new sprints are starting, use the `/sprint notify` command and set it to 'Yes':  
 
 ![img](/img/1d_sprint_start.png)  
+
+4. When the sprint concludes, you will be pinged. Enter your updated wordcount using `/sprint wc`:
+
+![img](/img/1g_sprint_start.png)  
+
+5. If you need to cancel a sprint, you can use `/sprint cancel `:
+
+![img](/img/1f_sprint_cancel.png)  
 
 
 
