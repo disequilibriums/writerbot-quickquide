@@ -5,7 +5,7 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 ## Quick Links:
 * [Starting a new sprint](#sprint-start)
 * [Joining a sprint](#sprint-join)
-* [Finishing a sprint](#sprint-end) 
+* [Finishing or leaving a sprint](#sprint-end) 
 
 ---
 <span id="sprint-basics"></span>
@@ -24,6 +24,8 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 3. Your sprint will begin!
 
 ![img](/img/1e_sprint_start.png)  
+
+---  
 
 <span id="sprint-join"></span>
 ## Joining a sprint:<br><br>
@@ -48,8 +50,9 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 
 ![img](/img/1h_sprint_settings.png)  
 
-4. If you join with the wrong wordcount, I haven't found an easy way to correct it... I would suggest leaving the sprint using `/sprint leave` and rejoining with the correct wordcount!  
+4. __If you join with the wrong wordcount__, I haven't found an easy way to correct it... I would suggest leaving the sprint using `/sprint leave` and rejoining with the correct wordcount!
 
+---  
 
 <span id="sprint-end"></span>
 ## Finishing a sprint:<br><br>
