@@ -4,6 +4,8 @@ If you would like to keep track of your wordcount for a specific project, you ca
 
 ![img](/img/1_project_final_card.png)<br><br>
 
+---
+
 ## If you want to hide messages related to project setup so that only you can see them, you can toggle off project command visibility using `/preferences toggle`:<br><br>
 
 1. type `/preferences toggle` and select the bot command that comes up:
@@ -26,6 +28,7 @@ If you would like to keep track of your wordcount for a specific project, you ca
 Now, when you use /profile commands, only you will be able to see the bot outputs:<br>
 ![img](/img/6_preftoggle.png)  
 
+---
 
 ## To create a project, use the `/project create` command:  
 
@@ -47,6 +50,7 @@ Now, when you use /profile commands, only you will be able to see the bot output
 
 ![img](/img/2n_project_settings.png)  
 
+---
 
 ## There are various settings you can add using the `/project` command:  
 
