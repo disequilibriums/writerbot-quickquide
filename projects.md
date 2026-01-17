@@ -29,7 +29,7 @@ Now, when you use /profile commands, only you will be able to see the bot output
 
 ## To create a project, use the /project create command:  
 
-1. Type `/project create` and select the bot command that comes up:
+1. Type `/project create` and select the bot command that comes up:  
 
 ![img](/img/1a_project_create.png)   
 
