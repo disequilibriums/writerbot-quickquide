@@ -5,8 +5,7 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 ## Quick Links:
 * [Starting a new sprint](#sprint-start)
 * [Joining a sprint](#sprint-join)
-* [Finishing a sprint](#sprint-end)
-* [Sprint settings](#sprint-settings)  
+* [Finishing a sprint](#sprint-end) 
 
 ---
 <span id="sprint-basics"></span>
@@ -72,14 +71,3 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 ![img](/img/1f_sprint_cancel.png)  
 
 
-
-
-<span id="sprint-settings"></span>  
-
-## Sprint settings:<br><br>
-
-1. If you want your wordcount to increase for a specific project, you can use `/sprint project ` to tell the bot to add your words from the current sprint to that project:  
-
-![img](/img/1f_sprint_settings.png)  
-
-![img](/img/1h_sprint_settings.png)  
