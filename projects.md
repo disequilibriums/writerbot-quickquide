@@ -5,9 +5,9 @@ If you would like to keep track of your wordcount for a specific project, you ca
 ![img](/img/1_project_final_card.png)<br><br>
 
 ## Quick Links:
-[Hide project commands from others](#toggle-visibility)  
-[Create a new project](#create-project)  
-[Update project settings (eg. description, goal wordcount)](#project-settings)
+* [Hide project commands from others](#toggle-visibility)  
+* [Create a new project](#create-project)  
+* [Update project settings (eg. description, goal wordcount)](#project-settings)
 
 ---
 <span id="toggle-visibility"></span>
