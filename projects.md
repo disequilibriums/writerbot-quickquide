@@ -2,10 +2,16 @@
 
 If you would like to keep track of your wordcount for a specific project, you can set up a nifty little project card to keep track of things!<br><br>
 
-## 1. If you want to hide messages related to project setup, you can toggle off project command visibility using /preferences toggle:<br><br>
+## If you want to hide messages related to project setup, you can toggle off project command visibility using /preferences toggle:<br><br>
+
+1. type `/preferences toggle` and select the bot command that comes up:  
 ![img](/img/1_preftoggle.png)<br><br>
+
+2. Select 'Project Command Visibility' from the list of suggestions:  
 ![img](/img/2_preftoggle.png)<br><br>
 ![img](/img/3_preftoggle.png)<br><br>
+
+3. Hit enter. You should see a message that says your project command visibility is now set to Hidden:  
 ![img](/img/4_preftoggle.png)<br><br>
 
 **Note: make sure it says your profile visibility was set to 'Hidden', not 'Visible'. If it says 'Visible', re-do the above steps:**<br>
