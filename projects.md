@@ -56,8 +56,6 @@ Now, when you use /profile commands, only you will be able to see the bot output
 
 2. Add a `/project genre` by selecting the command and choosing a genre from the list:  
 
-![img](/img/2a_project_settings.png)  
-
 ![img](/img/2b_project_settings.png)  
 
 ![img](/img/2c_project_settings.png)  
