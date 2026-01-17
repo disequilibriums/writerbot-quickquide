@@ -26,9 +26,9 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 
 4. To join a sprint, use `/sprint join`. There are a few options here:  
 
-* `/sprint join normal` lets you choose an **initial** word count (ie. the word count of your document before the sprint), and a **project** to add your sprint word count to.
-* `/sprint join no-wordcount` lets you sprint without needing to add a word count (ie. for editing/art/other creative purposes), though you can still select a **project**.
-* `/sprint join same` lets you join with the same word count you had at the end of your last sprint.
+* `/sprint join normal` lets you choose an **initial** wordcount (ie. the wordcount of your document before the sprint), and a **project** to add your sprint wordcount to.
+* `/sprint join no-wordcount` lets you sprint without needing to add a wordcount (ie. for editing/art/other creative purposes). You can still select a **project**.
+* `/sprint join same` lets you join with the same wordcount you had at the end of your last sprint.
 * `/sprint join set default_join` lets you set your default join condition.  
 
 ![img](/img/1j_sprint_start.png)  
