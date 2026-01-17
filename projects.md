@@ -4,7 +4,7 @@ If you would like to keep track of your wordcount for a specific project, you ca
 
 ![img](/img/1_project_final_card.png)<br><br>
 
-## If you want to hide messages related to project setup, you can toggle off project command visibility using /preferences toggle:<br><br>
+## If you want to hide messages related to project setup so that only you can see them, you can toggle off project command visibility using /preferences toggle:<br><br>
 
 1. type `/preferences toggle` and select the bot command that comes up:
 
