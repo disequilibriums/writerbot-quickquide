@@ -1,6 +1,6 @@
 # Setting up a writerbot project<br><br>
 
-If you would like to keep track of your wordcount for a specific project, you can set up a nifty little project card to keep track of things!<br><br>
+If you would like to keep track of your progress for a specific project, you can set up a nifty little project card to keep track of things!<br><br>
 
 ![img](/img/1_project_final_card.png)<br><br>
 
