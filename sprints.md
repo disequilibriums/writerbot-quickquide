@@ -29,7 +29,7 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 * `/sprint join normal` lets you choose an **initial** wordcount (ie. the wordcount of your document before the sprint), and a **project** to add your sprint wordcount to.
 * `/sprint join no-wordcount` lets you sprint without needing to add a wordcount (ie. for editing/art/other creative purposes). You can still select a **project**.
 * `/sprint join same` lets you join with the same wordcount you had at the end of your last sprint.
-* `/sprint join set default_join` lets you set your default join condition.  
+* `/sprint join set default_join` lets you set your default join condition. 
 
 ![img](/img/1j_sprint_start.png)  
 
