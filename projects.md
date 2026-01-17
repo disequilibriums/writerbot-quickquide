@@ -26,8 +26,8 @@ If you would like to keep track of your wordcount for a specific project, you ca
 Now, when you use /profile commands, only you will be able to see the bot outputs:<br>
 ![img](/img/6_preftoggle.png)  
 
-
-## To create a project, use the /project create command:  
+<br>
+## To create a project, use the `/project create` command:  
 
 1. Type `/project create` and select the bot command that comes up:  
 
@@ -39,4 +39,47 @@ Now, when you use /profile commands, only you will be able to see the bot output
 
 3. Hit enter. Your project will be created!  
 
-![img](/img/1d_project_create.png)  
+![img](/img/1d_project_create.png)    
+
+4. You can view your project by using `/project view ` and selecting your desired project:
+
+![img](/img/2n_project_settings.png)  
+
+![img](/img/2o_project_settings.png)  
+
+<br>
+## There are various settings you can add using the /project command:  
+
+1. Add a word count goal by using `/project edit goal` and entering your desired wordcount:
+
+![img](/img/2l_project_settings.png)  
+
+2. Add a `/project genre` by selecting the command and choosing a genre from the list:  
+
+![img](/img/2a_project_settings.png)  
+
+![img](/img/2b_project_settings.png)  
+
+![img](/img/2c_project_settings.png)  
+
+3. Add a `/project deadline` by selecting the command and entering a date:
+
+![img](/img/2e_project_settings.png)  
+
+4. Add a description using `/project edit description `. Once you select your fic, hit enter, and a pop-up will appear where you can type your description in:
+
+![img](/img/2h_project_settings.png)  
+
+![img](/img/2i_project_settings.png)  
+
+5. Add an icon using `/project edit image` and entering an image URL:  
+
+![img](/img/2j_project_settings.png)  
+
+6. You can view your project using `/project view `:
+
+![img](/img/2n_project_settings.png)  
+
+![img](/img/2o_project_settings.png)  
+
+![img](/img/1_project_final_card.png)
