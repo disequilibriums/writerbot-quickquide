@@ -5,6 +5,7 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 ## Quick Links:
 * [Starting a new sprint](#sprint-start)
 * [Joining a sprint](#sprint-join)
+* [Finishing a sprint](#sprint-end)
 * [Other sprint settings](#sprint-settings)  
 
 ---
