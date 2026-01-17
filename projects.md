@@ -26,7 +26,7 @@ If you would like to keep track of your wordcount for a specific project, you ca
 Now, when you use /profile commands, only you will be able to see the bot outputs:<br>
 ![img](/img/6_preftoggle.png)  
 
-<br>
+
 ## To create a project, use the `/project create` command:  
 
 1. Type `/project create` and select the bot command that comes up:  
