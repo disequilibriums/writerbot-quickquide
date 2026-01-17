@@ -14,7 +14,7 @@ This guide will go over how to use the writerbot for writing sprints!<br><br>
 
 ![img](/img/1_sprint_start.png)  
 
-2. You can select the length the sprint will run in minutes. If you click the "+4 more text", you can add additional settings:
+2. You can select the length the sprint will run in minutes. If you click ***+4 more***, you can add additional settings:
 
 ![img](/img/1b_sprint_start.png)  
 
